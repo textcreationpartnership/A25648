@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of the proceedings against Nat. Thompson, Mr. Farwell, &amp; Mr. Paine, at the Councel-Board, on Wednesday, April the fifth, 1682, for their endeavouring to shamm off the murther of Sir Edmund Bury-Godfrey who were all three committed by that honourable board to Newgate for the same.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25648</idno>
+            <idno type="STC">Wing A348</idno>
+            <idno type="STC">ESTC R284</idno>
+            <idno type="EEBO-CITATION">11776416</idno>
+            <idno type="OCLC">ocm 11776416</idno>
+            <idno type="VID">48945</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25648)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48945)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 3:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of the proceedings against Nat. Thompson, Mr. Farwell, &amp; Mr. Paine, at the Councel-Board, on Wednesday, April the fifth, 1682, for their endeavouring to shamm off the murther of Sir Edmund Bury-Godfrey who were all three committed by that honourable board to Newgate for the same.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for S. Gardiner,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Thompson, Nathaniel, d. 1687 --  Trials, litigation, etc.</term>
+               <term>Farwell, John --  Trials, litigation, etc.</term>
+               <term>Paine, William --  Trials, litigation, etc.</term>
+               <term>Godfrey, Edmund Berry, --  Sir, 1621-1678.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:48945:1" rendition="simple:additions"/>
+            <head>AN ACCOUNT OF THE PROCEEDINGS AGAINST Nat. Thompſon, Mr. Farwell, &amp; Mr. Paine, AT THE Councel-Board, On Wedneſday, April the Fifth, 1682. For their Endeavouring to SHAMM off the MURTHER OF <hi>Sir Edmund Bury-Godfrey,</hi> Who were all Three Committed by that <hi>Honourable Board,</hi> to <hi>Newgate,</hi> for the fame.</head>
+            <p>NEver was ſo great a piece of Villany hatch'd or contriv'd by <hi>Human Invention;</hi> and, as far as they dare, back'd and fomented by thoſe <hi>Eternal Beautefeus</hi> of the <hi>Nation,</hi> the <hi>Obſervator</hi> and <hi>Heraclitus,</hi> as the late Endeavour to tranſpoſe the Murther of Sir <hi>Edmund Bury-Godfrey.</hi> As if all the Imagination of Man were to be ſummon'd to make out <hi>If</hi>'s and <hi>And</hi>'s, <hi>How can this,</hi> and, <hi>How can that be</hi>'s? to diſprove a Matter of Fact, a Murder done in haſte and hurry. How far that bold <hi>Impoſtor Thompſon,</hi> hath put it, appear'd by the Effect; for that His Majeſty's moſt Honourable <hi>Privy-Councel</hi> thought it ſeaſonable, in Honour and Juſtice, to take notice of it. <hi>Thompſon,</hi> a <hi>Vermine,</hi> (for a <hi>Snake</hi> is no other) that his Native-Country has foſtered in her Boſom, to her Ruin, as much as in him lies. But what hath he done? He hath, with an impudent <hi>Letter,</hi> ſtuff'd with Artificial and <hi>Fallacious Queries,</hi> amuſed the World at firſt; and, as if that had not been enough, he hath in his late <hi>Damnable Intelligence,</hi> of <hi>April 1ſt.</hi> 1682. added a moſt <hi>Impudent, Audacious,</hi> and <hi>Jeſuitical Advertiſement</hi> to this purpoſe; viz. <hi>That on Wedneſday laſt, he had appeared before the Lords of His Majeſty's moſt Honourable Privy-Councel, about the Letters to Mr.</hi> Miles Prance, <hi>concern<g ref="char:EOLhyphen"/>ing
+<pb n="2" facs="tcp:48945:2"/>the Death of Sir</hi> Edmund Bury-Godfrey; <hi>where he juſtified, and produced the Authors, who are ready to prove, (by undenyable and ſubſtantial Witneſſes, not in the leaſt accuſed or ſuſpected of Popery, as the malicious Party do ſuggeſt) that every Tittle and Iota of thoſe Letters are true.</hi> And then proceeds to <hi>De<g ref="char:EOLhyphen"/>ſire all Lovers of Truth to ſuſpend their Judgments, and lay by their private, and firſt-taken Opinions, till they hear it openly, publickly, and demonſtratively proved.</hi> And ſtill more impudently goes on to tell us; That, <hi>in Order to which, he</hi> (the ſaid <hi>Nathaniel Thompſon</hi>) <hi>and the Gentlemen his Friends, are to attend the next</hi> Wedneſday <hi>at Council, where they do not doubt but that Honou<g ref="char:EOLhyphen"/>rable Board will put them into a method, to prove the whole, or any particular, which their Honours in their Great Wiſdom, ſhall think convenient to be brought to the Teſt or Examination.</hi> Theſe are his own words.</p>
+            <p>Accordingly he (the ſaid <hi>Thompſon</hi>) and his two Friends, Mr. <hi>Farwell</hi> and Mr. <hi>Paine,</hi> appeared at the <hi>Council Board</hi> on <hi>Wedneſday April</hi> the 5th. 1682. where Mr. <hi>Michael</hi> and Mr. <hi>Benjamin Godfrey</hi> alſo appeared, having Petiti<g ref="char:EOLhyphen"/>oned the <hi>Council</hi> to Examine the Truth of his ſaid <hi>Letters,</hi> and other matters, relating to the <hi>Death</hi> of Sir <hi>Edmund</hi> their <hi>Brother:</hi> And after that <hi>Honoura<g ref="char:EOLhyphen"/>ble Board</hi> had Examined <hi>Thompſon,</hi> and his <hi>Crew,</hi> they were pleaſed to commit them to <hi>Newgate,</hi> in Order to their receiving a <hi>ſpeedy Tryal</hi> for this <hi>horrid Villany.</hi>
+            </p>
+            <p>Now whereas <hi>Thompſon</hi> tells us, His <hi>Authors</hi> are <hi>undeniable and ſubſtantial Witneſses, not in the leaſt accuſed or ſuſpected of Popery;</hi> let the World take notice, that Mr. <hi>Farwell,</hi> one of his Gang, is ſo far from not being ſuſpected of <hi>Popery,</hi> that he was bred up under <hi>Langhorn,</hi> who was Condemned by the <hi>Publick Juſtice of the Nation,</hi> for that <hi>Plot,</hi> which the Murder of Sir <hi>Edmund-Bury Godfrey</hi> gave us the greateſt Light into: and for <hi>Paine,</hi> he is the Brother to <hi>Paine,</hi> alias <hi>Nevil,</hi> who was Intitled, to all the <hi>Popiſh intereſt</hi> of Mrs. <hi>Cellier:</hi> And theſe are <hi>Thompſons</hi> two <hi>Witneſſes</hi> or <hi>Authors,</hi> not to be ſuſpected of <hi>Popery;</hi> but notwithſtanding what hath been ſaid, we yet believe they may be as good <hi>Proteſtants</hi> as <hi>Thompſon</hi> himſelf.</p>
+            <p>In the Second place, whereas he ſaith, That <hi>they doubt not but that Ho<g ref="char:EOLhyphen"/>nourable Board will put them into a method to prove the whole, or any particu<g ref="char:EOLhyphen"/>lar, which they ſhall think convenient to be brought to the Teſt or Examination.</hi>
+            </p>
+            <p>Obſerve here, how greatly this <hi>Raſcal</hi> reflects upon that <hi>Honourable Board,</hi> as if they ſat there to make <hi>Models</hi> for <hi>Witneſſes,</hi> to give <hi>Teſtimony</hi> in <hi>ill</hi> things: but they having taken the buſineſs into due Examination, thought it juſt and requiſite to ſend them to <hi>Newgate</hi> for their <hi>Impudence;</hi> where they may contrive <hi>Methods</hi> or <hi>Models,</hi> with the <hi>Aſſiſtance</hi> of the <hi>Condemned Prieſts,</hi> and their Siſter <hi>Cellier,</hi> to bring the buſineſs to the <hi>Teſt</hi> and <hi>Exami<g ref="char:EOLhyphen"/>nation</hi> at the <hi>Old-Baily.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>S. Gardiner,</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
